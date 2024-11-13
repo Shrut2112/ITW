@@ -35,6 +35,6 @@ int main() {
     selectionSort(arr, n);
 
     printf("Sorted array: ");
-    printArray(arr, n);
+    printArray(arr,n); //printing array
     return 0;
 }
